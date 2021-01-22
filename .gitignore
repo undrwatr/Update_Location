@@ -1,0 +1,8 @@
+cred.py
+__pycache__/
+*.org.py
+.DS_Store
+*.txt
+cred.pyc
+format_addresses.py
+query_locations.py
